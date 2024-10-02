@@ -100,7 +100,7 @@ This study contributes to the field of medical image analysis by providing a use
 ---
 
 ## 📥 Download the Full Report
-[![Download Report](https://img.shields.io/badge/Download-Final%20Report-blue)](skin_cancer_gui.png)
+[![Download Report](https://img.shields.io/badge/Download-Final%20Report-blue)](skin_cancer_based_on_HAM10000_dataset.docx)
 
 ---
 
