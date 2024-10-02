@@ -60,7 +60,7 @@ This study contributes to the field of medical image analysis by providing a use
 ---
 
 ## 🖼️ GUI Demonstration
-![GUI for Skin Lesion Classification](skin_cancer_gui.jpg)
+![GUI for Skin Lesion Classification](skin_cancer_gui.png)
 
 *Figure: Graphical User Interface for skin lesion classification allowing real-time interaction.*
 
